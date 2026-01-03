@@ -1,29 +1,45 @@
-# Vendor_Performance_Analysis
-# 📊 Vendor Performance Analysis
+📁 Operational Data Analysis & Reporting
+📌 Overview
 
-This project analyzes vendor performance using **SQL**, **Python**, and **Power BI** to uncover key insights about sales, purchases, profit margins, and underperforming vendors or brands.
+This project focuses on analyzing operational datasets to support structured performance reporting and data-driven insights. The objective is to prepare clean, reliable, and report-ready data that can be used for operational reviews and decision-making.
 
----
+The project demonstrates practical data handling, validation, and reporting support workflows commonly used in business and analytics roles.
 
-## 📁 Project Overview
+📊 Dataset Scope
 
-**Objective:**  
-To evaluate the performance of vendors and brands over a period of time by analyzing key business metrics like total sales, purchases, gross profit, unsold capital, and profit margin.
+Structured operational records (e.g., transactions, vendor or operational metrics)
 
-**Tech Stack Used:**
-- **SQL:** Data extraction and transformation
-- **Python:** Data cleaning, preprocessing, and statistical analysis
-- **Power BI:** Data visualization and dashboard development
+Multiple attributes related to performance, volume, and consistency
 
----
+Dataset size: Medium to large-scale records
 
-## 🛠️ Tools & Technologies
+🛠 Tools & Technologies
 
-| Tool        | Purpose                            |
-|-------------|------------------------------------|
-| **MySQL / PostgreSQL** | Querying vendor and sales data        |
-| **Python (Pandas, NumPy, Matplotlib, Seaborn)** | Data wrangling, aggregation, and exploratory analysis |
-| **Power BI** | Interactive dashboard for stakeholders |
+Python (Pandas, NumPy)
+
+SQL (MySQL / PostgreSQL)
+
+Excel (Pivot Tables, Lookups, Validation Checks)
+
+Power BI (Data Modeling, Dashboards)
+
+🔍 Key Tasks Performed
+
+Reviewed and validated operational records for consistency and accuracy
+
+Cleaned and structured datasets for analysis
+
+Generated summary metrics and performance indicators
+
+Prepared report-ready datasets and documentation to support reporting workflows
+
+📈 Outcomes
+
+Improved data consistency and readiness for reporting
+
+Enabled structured performance analysis through clean datasets
+
+Produced reusable reporting inputs and summaries
 
 ---
 
