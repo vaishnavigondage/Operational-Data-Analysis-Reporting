@@ -1,4 +1,6 @@
 📁 Operational Data Analysis & Reporting
+
+
 Also referred to as: Vendor performance analysis
 📌 Overview
 
